@@ -1,4 +1,4 @@
 .boot
 .gorilla-port
-.nrepl-port
+.nrepl-*
 target/
